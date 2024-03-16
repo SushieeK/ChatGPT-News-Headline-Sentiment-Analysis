@@ -87,6 +87,6 @@ Dominguez, H. R. (2022, May 14). Twitter sentiment analysis using Zookeeper, Kaf
 Gongang, L. (2022a, March 12). Apache Spark Structured Streaming - Lorena Gongang - Medium. Medium. https://medium.com/@lorenagongang/apache-spark-structured- streaming-69f06c490d8c
 Gongang, L. (2022b, March 19). Sentiment analysis on streaming Twitter data using Kafka, Spark Structured Streaming & Python (Part 2). Medium. https://medium.com/@lorenagongang/sentiment-analysis-on-streaming-twitter-data- using-kafka-spark-structured-streaming-python-part-b27aecca697a
 Gongang, L. (2022c, March 26). Sentiment analysis on streaming Twitter data using Kafka, Spark Structured Streaming & Python (Part 3). Medium. https://medium.com/@lorenagongang/sentiment-analysis-on-streaming-twitter-data- using-kafka-spark-structured-streaming-python-part-eaa9f0af076d
-![image](https://github.com/SushieeK/ChatGPT-News-Headline-Sentiment-Analysis/assets/127150757/32bed8b6-3635-4ef4-9e3e-8c79b25ce6ff)
+
 
 
